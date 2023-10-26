@@ -1,0 +1,29 @@
+<!DOCTYPE html>      <!--Versão 5 do html-->
+<html lang="pt-br"> <!--origem do site, Brasil-->
+    <head> <!-- cabeça invisível do site -->
+            <meta charset="UTF-8"> <!--simbolos de outros países-->
+            <title>site Flamengo</title> <!-- titulo da aba-->
+      
+          <link rel="stylesheet" href="style.css"> <!--conectar css no html-->
+    </head> 
+
+      <body><!--conteudo visível --> 
+            <header>
+                  <img src="" alt="">
+            </header>
+     <!--Formatações Básicas-->
+     <h1>style=background-color: #f45faa;">corinthians</h1><!--css inline-->
+     <p>
+
+Lorem ipsum habitant netus gravida ipsum est in egestas augue, vitae erat rutrum nam pulvinar malesuada pellentesque habitasse auctor, feugiat amet diam commodo tellus rutrum a aptent. diam phasellus vestibulum aenean est ut nisi dolor posuere vitae proin potenti libero, quisque at cursus faucibus nisl curabitur netus ornare ante accumsan nisl. fermentum orci praesent himenaeos fames aenean curabitur tortor quisque litora congue lobortis, etiam turpis nisi dapibus molestie venenatis aenean dictumst etiam dictumst. fringilla venenatis dolor ut eu morbi cubilia, odio etiam ipsum scelerisque commodo nec sodales, donec risus varius faucibus ligula.
+       </p>
+
+     <br>  <!--Break row (quebra de linha ou pular a linha)-->
+     <b>  
+
+        Id tristique velit luctus leo consectetur ad id pulvinar est vel, venenatis phasellus vivamus placerat faucibus convallis laoreet porttitor nec,
+     </b>
+     <br>
+     <strong> texto importante</strong>
+      </body>
+</html>.....,.;
